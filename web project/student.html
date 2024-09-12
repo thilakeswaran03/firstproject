@@ -1,0 +1,37 @@
+<!-- index.html -->
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Eligibility Checker</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <h1>Eligibility Checker</h1>
+
+    <!-- Student Form -->
+    <section id="student-interface">
+        <h2>Student Eligibility Check</h2>
+        <form id="student-form">
+            <label for="name">Name:</label>
+            <input type="text" id="name" required>
+
+            <label for="regNo">Registration Number:</label>
+            <input type="text" id="regNo" required>
+            
+            <label for="subject">Subject Mandate:</label>
+            <select id="subject">
+                <option value="subject1">Subject 1</option>
+                <option value="subject2">Subject 2</option>
+                <!-- Add more subjects -->
+            </select>
+
+            <button type="submit">Check Eligibility</button>
+        </form>
+    </section>
+    <p id="result"></p>
+
+    <script src="script.js"></script>
+</body>
+</html>

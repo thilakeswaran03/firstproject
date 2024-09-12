@@ -1,0 +1,76 @@
+S.No.,Criteria,Category,"Course Code
+R2024","Course Code 
+R2019",Course Title,Contact Hours per Week,,,Credits,Prerequisite,Credits,,,CGPA / Non - CGPA,Course Type
+,,,,,,L,T,P,,,L,P,Total,,
+27,,PC,CS3408,19AI408,Data Structures,2,0,2,3,-,2,1,3,CGPA,Theory Integrated with Practicals (6 Experiments)
+28,,PC,CS3404,19AI404,Analysis of Algorithms,2,0,2,3,19AI301,2,1,3,CGPA,Theory Integrated with Practicals (6 Experiments)
+29,,PC,CS3405,19AI405,Fundamentals of Artificial Intelligence,2,0,2,3,19AI301/19MA220,2,1,3,CGPA,Theory
+30,,PC,CS3406,19AI406,Digital Image Processing Techniques,2,0,2,3,19AI301,2,1,3,CGPA,Theory Integrated with Practicals (6 Experiments)
+31,Option 1,PC,NA,19AI401,Fundamentals of Web Technology,3,0,0,3,-,3,0,3,CGPA,Theory
+32,,PC,NA,19AI402,Web Technology Laboratory,0,0,4,2,-,0,2,2,CGPA,Theory
+33,Option 2,PC,CS3414,19AI414,Fundamentals of Web Application Development,3,0,4,5,-,3,2,5,CGPA,Theory
+34,,PC,CS1404,19CS404,Database Management System and its Applications,3,0,2,4,19AI301/19AI304,3,1,4,CGPA,Theory
+35,,PC,CS1405,19CS405,Operating System,3,0,2,4,-,3,1,4,CGPA,Theory
+36,,PC,CS1406,19CS406,Computer Networks,3,0,2,4,-,3,1,4,CGPA,Theory
+37,,PC,CS3403,19AI403,Introduction to Data Science,2,0,2,3,19AI301,2,1,3,CGPA,Theory
+38,,PC,CS3409,19AI409,Applied Artificial Intelligence,2,0,2,3,19AI301,2,1,3,CGPA,Theory
+39,,PC,CS3407,19AI407,Parallel Computing Architecture,3,0,2,4,-,3,1,4,CGPA,Theory
+40,,PC,CS3410,19AI410,Introduction to Machine Learning,2,0,2,3,-,2,1,3,CGPA,Theory
+41,,PC,CS3411,19AI411,Neural Networks,2,0,2,3,-,2,1,3,CGPA,Theory
+42,,PC,CS3412,19AI412,Web Data Mining,3,0,2,4,-,3,1,4,CGPA,Theory
+43,,PC,CS3413,19AI413,Deep Learning and its Applications,2,0,2,3,-,2,1,3,CGPA,Theory
+44,,PE,CS1408,19CS408,Software Engineering,3,0,2,4,-,3,1,4,CGPA,Theory
+S.No.,Criteria,Category,"Course Code
+R2024","Course Code 
+R2019",Course Title,Contact Hours per Week,,,Credits,Prerequisite,Credits,,,CGPA / Non - CGPA,Course Type
+,,,,,,L,T,P,,,L,P,Total,,
+27,Option 1,PC,CS3401,19AI401,Fundamentals Of Web Technology,3,0,0,3,-,3,0,3,CGPA,Theory
+28,,PC,CS3402,19AI402,Web Technology Laboratory,0,0,4,2,-,0,2,2,CGPA,Practical (6 Experiments)
+29,Option 2,PC,CS3414,19AI414,Fundamentals of Web Application Development,3,0,4,5,-,3,2,5,CGPA,Theory Integrated with Practicals (6 Experiments)
+37,,PC,CS3403,19AI403,Introduction to Data Science,2,0,2,3,19AI301,2,1,3,CGPA,Theory
+30,,PC,CS1405,19CS405,Operating System,3,0,2,4,-,3,1,4,CGPA,Theory Integrated with Practicals (6 Experiments)
+31,,PC,CS1406,19CS406,Computer Networks,3,0,2,4,-,3,1,4,CGPA,Theory Integrated with Practicals (6 Experiments)
+32,,PC,CS1404,19CS404,Database Management System and Its Applications,3,0,2,4,19CS301/19CS302,3,1,4,CGPA,Theory Integrated with Practicals (6 Experiments)
+33,,PC,CS3408,19AI408,Data Structures,2,0,2,3,19AI305,2,1,3,CGPA,Theory Integrated with Practicals (6 Experiments)
+34,,PC,CS3404,19AI404,Analysis of Algorithms,2,0,2,3,19AI305,2,1,3,CGPA,Theory Integrated with Practicals (6 Experiments)
+35,,PC,CS3405,19AI405,Fundamentals of Artificial Intelligence,2,0,2,3,19AI301/19MA220,2,1,3,CGPA,Theory Integrated with Practicals (6 Experiments)
+36,,PC,CS3550,19AI550,Artificial Intelligence for Games,2,0,2,3,19CS402,2,1,3,CGPA,Theory Integrated with Practicals (6 Experiments)
+37,,PC,CS3406,19AI406,Digital Image Processing Techniques,2,0,2,3,19AI301,2,1,3,CGPA,Theory Integrated with Practicals (6 Experiments)
+38,,PC,CS3409,19AI409,Applied Artificial Intelligence,2,0,2,3,19AI301/19MA220 /19AI550,2,1,3,CGPA,Theory Integrated with Practicals (6 Experiments)
+39,,PC,CS3410,19AI410,Introduction to Machine Learning,2,0,2,3,-,2,1,3,CGPA,Theory Integrated with Practicals (6 Experiments)
+40,,PC,CS4401,19AM401,Time Series Analysis and Forecasting,3,0,2,4,-,3,1,4,CGPA,Theory Integrated with Practicals (6 Experiments)
+41,,PC,CS3411,19AI411,Neural Networks,2,0,2,3,-,2,1,3,CGPA,Theory Integrated with Practicals (6 Experiments)
+42,,PC,CS3505,19AI505,Reinforcement Learning,2,0,2,3,19AI301/19MA211/ 19AI410,2,1,3,CGPA,Theory Integrated with Practicals (6 Experiments)
+43,,PC,CS3413,19AI413,Deep Learning and its Applications,2,0,2,3,-,2,1,3,CGPA,Theory Integrated with Practicals (6 Experiments)
+S.No.,Criteria,Category,"Course Code
+R2024","Course Code 
+R2019",Course Title,Contact Hours per Week,,,Credits,Prerequisite,Credits,,,CGPA / Non - CGPA,Course Type,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,L,T,P,,,L,P,Total,,,,,,,,,,,,,,,,,,,,,,,,,
+27,,PC,CS3414,19AI414,Fundamentals of Web Application Development,3,0,4,5,-,3,2,5,CGPA,Theory Integrated with Practicals (6 Experiments),,,,,,,,,,,,,,,,,,,,,,,
+28,,PC,CS1405,19CS405,Operating System,3,0,2,4,-,3,1,4,CGPA,Theory Integrated with Practicals (6 Experiments),,,,,,,,,,,,,,,,,,,,,,,
+29,,PC,CS1406,19CS406,Computer Networks,3,0,2,4,-,3,1,4,CGPA,Theory Integrated with Practicals (6 Experiments),,,,,,,,,,,,,,,,,,,,,,,
+30,,PC,CS1404,19CS404,Database Management System and its Applications,3,0,2,4,19AI301/19AI304,3,1,4,CGPA,Theory Integrated with Practicals (6 Experiments),,,,,,,,,,,,,,,,,,,,,,,
+31,,PC,CS3408,19AI408,Data Structures,2,0,2,3,19AI304,2,1,3,CGPA,Theory Integrated with Practicals (6 Experiments),,,,,,,,,,,,,,,,,,,,,,,
+32,,PC,CS3404,19AI404,Analysis of Algorithms,2,0,2,3,19AI301,2,1,3,CGPA,Theory Integrated with Practicals (6 Experiments),,,,,,,,,,,,,,,,,,,,,,,
+33,,PC,CS1407,19CS407,Theory of Computation,3,0,0,3,19MA220,3,0,3,CGPA,Theory,,,,,,,,,,,,,,,,,,,,,,,
+34,,PC,CS1408,19CS408,Software Engineering,3,0,2,4,-,3,1,4,CGPA,Theory Integrated with Practicals (6 Experiments),,,,,,,,,,,,,,,,,,,,,,,
+S.No.,Criteria,Category,"Course Code
+R2024","Course Code 
+R2019",Course Title,Contact Hours per Week,,,Credits,Prerequisite,Credits,,,CGPA / Non - CGPA,Course Type,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,L,T,P,,,L,P,Total,,,,,,,,,,,,,,,,,,,,,,,,,
+27,,PC,CS3404,19AI404,Analysis of Algorithms,2,0,2,3,19AI301,2,1,3,CGPA,Theory Integrated with Practicals(6 Experiments),,,,,,,,,,,,,,,,,,,,,,,
+28,,PC,CS3405,19AI405,Fundamentals of Artificial Intelligence,2,0,2,3,19AI301/19MA220,2,1,3,CGPA,Theory Integrated with Practicals(6 Experiments),,,,,,,,,,,,,,,,,,,,,,,
+29,,PC,CS3408,19AI408,Data Structures,2,0,2,3,19AI304,2,1,3,CGPA,Theory Integrated with Practicals(6 Experiments),,,,,,,,,,,,,,,,,,,,,,,
+30,,PC,CS3414,19AI414,Fundamentals of Web Application Development,3,0,4,5,-,3,2,5,CGPA,Theory Integrated with Practicals(6 Experiments),,,,,,,,,,,,,,,,,,,,,,,
+31,,PC,CS3541,19AI541,Cloud Computing,3,0,0,3,19CS406,3,0,3,CGPA,Theory Integrated with Practicals(6 Experiments),,,,,,,,,,,,,,,,,,,,,,,
+32,,PC,CS4508,19AM508,Introduction to IoT,2,0,2,3,-,2,1,3,CGPA,Theory Integrated with Practicals(6 Experiments),,,,,,,,,,,,,,,,,,,,,,,
+33,,PC,CS4509,19AM509,Industrial Internet of Things,2,0,2,3,-,2,1,3,CGPA,Theory Integrated with Practicals(6 Experiments),,,,,,,,,,,,,,,,,,,,,,,
+34,,PC,CS1404,19CS404,Database Management System and its Applications,3,0,2,4,19AI301/19AI304,3,1,4,CGPA,Theory Integrated with Practicals(6 Experiments),,,,,,,,,,,,,,,,,,,,,,,
+35,,PC,CS1405,19CS405,Operating System,3,0,2,4,-,3,1,4,CGPA,Theory Integrated with Practicals(6 Experiments),,,,,,,,,,,,,,,,,,,,,,,
+36,,PC,CS1406,19CS406,Computer Networks,3,0,2,4,-,3,1,4,CGPA,Theory Integrated with Practicals(6 Experiments),,,,,,,,,,,,,,,,,,,,,,,
+37,,PC,CS1407,19CS407,Theory of Computation,3,0,0,3,19MA220,3,0,3,CGPA,Theory,,,,,,,,,,,,,,,,,,,,,,,
+38,,PC,CS1408,19CS408,Software Engineering,3,0,2,4,-,3,1,4,CGPA,Theory Integrated with Practicals(6 Experiments),,,,,,,,,,,,,,,,,,,,,,,
+39,,PC,CS1409,19CS409,Compiler Design,3,0,2,4,-,3,1,4,CGPA,Theory Integrated with Practicals(6 Experiments),,,,,,,,,,,,,,,,,,,,,,,
+40,,PC,CS1420,19CS420,Prototyping of IoT Systems,2,0,2,3,-,2,1,3,CGPA,Theory Integrated with Practicals(6 Experiments),,,,,,,,,,,,,,,,,,,,,,,
+41,,PC,CS1421,19CS421,Edge Computing,2,0,2,3,-,2,1,3,CGPA,Theory Integrated with Practicals(6 Experiments),,,,,,,,,,,,,,,,,,,,,,,
+42,,PC,CS1422,19CS422,Security for IoT Systems,3,0,0,3,-,3,0,3,CGPA,Theory,,,,,,,,,,,,,,,,,,,,,,,

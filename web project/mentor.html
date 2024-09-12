@@ -1,0 +1,45 @@
+<!-- index.html -->
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Eligibility Checker</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <h1>Eligibility Checker</h1>
+    <!-- Mentor Form (Optional Similar Structure) -->
+    <section id="mentor-interface">
+        <h2>Mentor Eligibility Check</h2>
+        <form id="student-form">
+            <label for="name">Name:</label>
+            <input type="text" id="name" required>
+
+            <label for="regNo">Registration Number:</label>
+            <input type="text" id="regNo" required>
+
+            <label for="year">Year of Study:</label>
+            <select id="year">
+                <option value="1">1st Year</option>
+                <option value="2">2nd Year</option>
+                <option value="3">3rd Year</option>
+                <option value="4">4th Year</option>
+            </select>
+
+            <label for="subject">Subject Mandate:</label>
+            <select id="subject">
+                <option value="subject1">Subject 1</option>
+                <option value="subject2">Subject 2</option>
+                <!-- Add more subjects -->
+            </select>
+
+            <button type="submit">Check Eligibility</button>
+        </form>
+    </section>
+
+    <p id="result"></p>
+
+    <script src="script.js"></script>
+</body>
+</html>
