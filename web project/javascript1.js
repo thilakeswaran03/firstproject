@@ -1,20 +1,38 @@
-document.getElementById("student-form").addEventListener("submit", async function (event) {
-    event.preventDefault();
+document.addEventListener('DOMContentLoaded', function () {
+    document.getElementById('student-form').addEventListener('submit', async function (e) {
+        e.preventDefault();
+        
+        // Get form data
+        const regNo = document.getElementById('regNo').value;
+        const subMand = document.getElementById('subject').value;
+        
+        try {
+            // Send data to the Flask backend (adjust URL if needed)
+            const response = await fetch('http://localhost:5000/check_eligibility', {  // Use absolute URL
+                method: 'POST',
+                headers: {
+                    'Content-Type': 'application/json',
+                },
+                body: JSON.stringify({
+                    regNo: regNo,
+                    subMand: subMand
+                }),
+            });
+            
+            if (!response.ok) {
+                throw new Error('Network response was not ok');
+            }
 
-    const name = document.getElementById("name").value;
-    const regNo = document.getElementById("regNo").value;
-    const year = document.getElementById("year").value;
-    const subject = document.getElementById("subject").value;
-
-    // Sending the data to the backend
-    const response = await fetch("http://localhost:3000/checkEligibility", {
-        method: "POST",
-        headers: {
-            "Content-Type": "application/json",
-        },
-        body: JSON.stringify({ name, regNo, year, subject }),
+            // Get the result from backend and display it
+            const result = await response.json();
+            if (result.eligible) {
+                document.getElementById('result').innerText = 'The subject is eligible for online certification.';
+            } else {
+                document.getElementById('result').innerText = 'The subject is NOT eligible for online certification.';
+            }
+        } catch (error) {
+            document.getElementById('result').innerText = 'Error checking eligibility: ' + error.message;
+            console.error('Error:', error);
+        }
     });
-
-    const result = await response.json();
-    document.getElementById("result").innerText = result.message;
 });
